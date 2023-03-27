@@ -1,2 +1,2 @@
 # calculator-using-python
-create a calculator using tkinder 
+create a GUI calculator using tkinder 
